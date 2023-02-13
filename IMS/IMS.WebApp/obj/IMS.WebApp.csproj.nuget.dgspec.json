@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {}
+    "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\alex.callender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.CoreBusiness\\obj\\",
+        "outputPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+    "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "projectUniqueName": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
         "projectName": "IMS.Plugins.InMemory",
-        "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+        "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
         "packagesPath": "C:\\Users\\alex.callender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
+        "outputPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+    "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectUniqueName": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "projectName": "IMS.UseCases",
-        "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "packagesPath": "C:\\Users\\alex.callender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\obj\\",
+        "outputPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {
+    "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
         "projectName": "IMS.WebApp",
-        "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
         "packagesPath": "C:\\Users\\alex.callender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -225,11 +225,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
-                "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+              "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+                "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
               },
-              "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }

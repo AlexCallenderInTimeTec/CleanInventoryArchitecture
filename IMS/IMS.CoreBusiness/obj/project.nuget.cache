@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1clDfQ4XhIrL8fm+xgq8Jz9vxIg6ozpQSroPuID8/pxu3sFgurf2PS885L6lUik+3gGUk5lhJT3VE7/Vvw3Pgw==",
+  "dgSpecHash": "8GVFay3zQ4wte6YBoF2IXQ05ymgZe6uvTrmTgo2aQvGU8PBtxs4eTBT3HN03HRgxPon6Oiu3rIR0SS+FlY9jCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+  "projectFilePath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

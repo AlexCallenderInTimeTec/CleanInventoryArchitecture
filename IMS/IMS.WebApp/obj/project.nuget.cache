@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pxdW6v6ngh6yIfGZwJquf72AZnNA663XQFxza6VY2zS7fl8tOf8fJAFdG526YVAoNktX6dg3hT3/HR1evG2c3A==",
+  "dgSpecHash": "hKwPBmRTgQdebxlHt/h9Kso54iWsaYonX1/IMcL/Hp8b3z8SntSMigtca1xLZFMpAL5u2A71S3Ug3C2mSpjSEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

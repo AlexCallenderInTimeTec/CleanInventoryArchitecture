@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QGp0rUYoBuWl1Vv/BwM5PDw906mAwAgshSEJlNuZJQ/w+8dOVB21+Uom37hCFlJClTWN7rW1PahrLCl74viF8w==",
+  "dgSpecHash": "yP/W3fMWj+g3BlEhEFFrLrK/yRj5rPyoLJoFi0w4+UaLuAMGPuLgf8ZxOxI5T3axDScO/+KAe+XqHhIw5FWYNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.callender\\Documents\\NewLearningPath\\CSharpLearningPath\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
+  "projectFilePath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
