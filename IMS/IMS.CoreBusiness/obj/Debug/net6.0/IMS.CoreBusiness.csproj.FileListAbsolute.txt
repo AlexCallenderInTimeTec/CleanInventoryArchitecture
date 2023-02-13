@@ -1,0 +1,12 @@
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.deps.json
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfo.cs
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.dll
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\refint\IMS.CoreBusiness.dll
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb
+C:\Users\alex.callender\Source\Repos\CleanInventoryArchitecture\IMS\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll
