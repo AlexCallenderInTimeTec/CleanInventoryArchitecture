@@ -20,7 +20,7 @@
 
     protected override async Task OnInitializedAsync()
     {
-        _inventories = (await ViewInventoriesByNameUseCases.ExecuteAsync("a")).ToList(); 
+        _inventories = (await ViewInventoriesByNameUseCases.ExecuteAsync()).ToList(); 
     }
 
 }
