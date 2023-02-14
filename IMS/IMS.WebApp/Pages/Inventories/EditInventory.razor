@@ -1,9 +1,11 @@
-﻿@page "/addinventory"
+﻿@page "/editinventory/{InventoryId:int}"
 
-@inject IAddInventoryUseCase AddInventroy
+@inject IViewInventoryByIdUseCase ViewInventoryById
 @inject NavigationManager NavMan
+@inject IEditInventoryUseCase EditInvetory
 
-<h3>Add Inventory</h3>
+
+<h3>Edit Inventory</h3>
 <br />
 
 <EditForm Model="inventory" OnValidSubmit="SaveInventory">
@@ -13,12 +15,12 @@
     <div class="form-group">
         <label for="name">Inventory Name</label>
         <InputText id="name"
-            @bind-Value="inventory.InventoryName"
-            class="form-control">
+                   @bind-Value="inventory.InventoryName"
+                   class="form-control">
         </InputText>
     </div>
 
-    <div class="form-group">
+        <div class="form-group">
         <label for="quantity">Quantity</label>
         <InputNumber id="quantity"
             @bind-Value="inventory.Quantity"
@@ -34,23 +36,33 @@
         </InputNumber>
     </div>
     <br />
+
     <button type="submit" class="btn btn-primary">Save</button>
     <button type="button" class="btn btn-danger" @onclick="CancelInventory">Cancel</button>
+
+
+
 </EditForm>
 
-@code 
-{
+@code {
+    [Parameter]
+    public int InventoryID { get; set; }
+
     private Inventory inventory = new Inventory();
 
-    public async Task SaveInventory()
+    protected override async Task OnParametersSetAsync()
     {
-        await AddInventroy.ExecuteAsync(inventory);
+        this.inventory = await ViewInventoryById.ExecuteAsync(this.InventoryID);
+    }
+
+    private async Task SaveInventory()
+    {
+        await EditInvetory.ExcuteAsyc(this.inventory);
         NavMan.NavigateTo("/inventories");
     }
 
-    public void CancelInventory()
+    private void CancelInventory()
     {
         NavMan.NavigateTo("/inventories");
     }
-
 }
