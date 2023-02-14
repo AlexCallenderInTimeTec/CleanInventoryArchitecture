@@ -17,16 +17,16 @@ namespace IMS.Plugins.InMemory
                 new Inventory { InvetoryId = 4, InventoryName = "Bike Pedels", Quantity = 20, Price = 1 },
             };
 
-                
+
         }
 
         public Task AddInventoryAsync(Inventory inventory)
         {
-            if (_inventories.Any(x => x.InventoryName.Equals(inventory.InventoryName, StringComparison.OrdinalIgnoreCase))
+            if (_inventories.Any(x => x.InventoryName.Equals(inventory.InventoryName, StringComparison.OrdinalIgnoreCase)))
                 return Task.CompletedTask;
 
             var maxId = _inventories.Max(x => x.InvetoryId);
-            inventory.InvetoryId= maxId + 1;
+            inventory.InvetoryId = maxId + 1;
 
             _inventories.Add(inventory);
 

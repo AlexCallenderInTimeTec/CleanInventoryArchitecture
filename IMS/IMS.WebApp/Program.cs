@@ -3,8 +3,6 @@ using IMS.UseCases.Inventories;
 using IMS.UseCases.Inventories.Interfaces;
 using IMS.UseCases.PluginInterfaces;
 using IMS.WebApp.Data;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
 
 namespace IMS.WebApp
 {

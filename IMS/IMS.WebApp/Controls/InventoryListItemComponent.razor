@@ -1,29 +1,25 @@
 ﻿ 
-@if(Inventories != null && Inventories.Count > 0)
+@if(InventoriesStuff != null && InventoriesStuff.Count > 0)
 {
-    foreach (var inventory in Inventories)
+    foreach (var inventory in InventoriesStuff)
     {
-                    <tr>
-                        <td>@inventory.InventoryName</td>
-                        <td>@inventory.Quantity</td>
-                        <td>@inventory.Price.ToString("c")</td>
-                        <td>
-                            <button type="button" class="btn btn-light">
+        <tr>
+            <td>@inventory.InventoryName</td>
+            <td>@inventory.Quantity</td>
+            <td>@inventory.Price.ToString("c")</td>
+            <td>
+                <button type="button" class="btn btn-light">
 
-                            </button>
-                        </td>
-                    </tr>
+                </button>
+            </td>
+        </tr>
     }
 }
-
-
-
-
 
 @code {
 
     [Parameter]
-    public List<Inventory> Inventories { get; set; } = new List<Inventory>();
+    public List<Inventory> InventoriesStuff { get; set; } = new List<Inventory>();
 
 
 }

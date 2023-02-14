@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using IMS.CoreBusiness;
+﻿using IMS.CoreBusiness;
 using IMS.UseCases.Inventories.Interfaces;
 using IMS.UseCases.PluginInterfaces;
 
