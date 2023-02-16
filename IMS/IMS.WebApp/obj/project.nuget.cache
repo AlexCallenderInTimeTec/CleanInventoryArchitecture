@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hKwPBmRTgQdebxlHt/h9Kso54iWsaYonX1/IMcL/Hp8b3z8SntSMigtca1xLZFMpAL5u2A71S3Ug3C2mSpjSEg==",
+  "dgSpecHash": "cKBSLXiC0/PVZCuW+nFSiQ/Vq/BXLGzZuhBdyTK+Xph6P8QjD2pfvawxI/VhnTKoMvTYz0GbR2fxBTzhhvG6bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
       "projectName": "IMS.WebApp",
-      "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+      "projectPath": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
       "packagesPath": "C:\\Users\\alex.callender\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,11 +97,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
-              "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
+            "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj": {
+              "projectPath": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj"
             },
-            "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-              "projectPath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+            "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+              "projectPath": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
             }
           }
         }

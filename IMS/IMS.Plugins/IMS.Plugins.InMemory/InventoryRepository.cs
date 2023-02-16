@@ -16,8 +16,6 @@ namespace IMS.Plugins.InMemory
                 new Inventory { InvetoryId = 3, InventoryName = "Bike Wheels", Quantity = 20, Price = 8 },
                 new Inventory { InvetoryId = 4, InventoryName = "Bike Pedels", Quantity = 20, Price = 1 },
             };
-
-
         }
 
         public Task AddInventoryAsync(Inventory inventory)
@@ -43,7 +41,7 @@ namespace IMS.Plugins.InMemory
 
         public async Task<Inventory> GetInventoryByIdAsync(int inventoryId)
         {
-            var inv = _inventories.First(x => x.InvetoryId== inventoryId);
+            var inv = _inventories.First(x => x.InvetoryId == inventoryId);
             var newInv = new Inventory
             {
                 InventoryName = inv.InventoryName,

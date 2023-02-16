@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GVFay3zQ4wte6YBoF2IXQ05ymgZe6uvTrmTgo2aQvGU8PBtxs4eTBT3HN03HRgxPon6Oiu3rIR0SS+FlY9jCg==",
+  "dgSpecHash": "C14fFvkD0xTzdM1gqAyuaoqN9gc0ePsPOBD1lhPcSmnekgevnbCRkVJc5E5rK2C6QATG/P9/kV5hl8FCRJtEfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+  "projectFilePath": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

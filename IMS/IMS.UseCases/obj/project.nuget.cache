@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CsAEFUUAxg53Cl48RNInbdI0Fc2E/VDIQ8ngt7S5ZkA+CVjThUHAtjWxCOZ6cpAeEEWYdidt67+bV3EklPYlfQ==",
+  "dgSpecHash": "5t/u7Onr/aQO3/bY8mFP+jrXoMik2GEYRNs0hQq8SWqloZh+AGU542O+4PhE3NWMsY5h2gTM1+5gImHs+M850A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex.callender\\Source\\Repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+  "projectFilePath": "C:\\Users\\alex.callender\\source\\repos\\CleanInventoryArchitecture\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
